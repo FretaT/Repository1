@@ -1,4 +1,4 @@
-                           Practice Exam   
+                           
 
 Lesson4c: Requirements 3
 1.	How do we communicate requirement? Key diagrams used?
